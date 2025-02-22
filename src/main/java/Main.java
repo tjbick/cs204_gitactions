@@ -20,11 +20,11 @@ public class Main {
                     b = scanner.nextInt();
                     System.out.println(calculator.add(a, b));
                     break;
-//                case "subtract":
-//                    a = scanner.nextInt();
-//                    b = scanner.nextInt();
-//                    System.out.println(calculator.subtract(a,b));
-//                    break;
+                case "subtract":
+                    a = scanner.nextInt();
+                    b = scanner.nextInt();
+                    System.out.println(calculator.subtract(a,b));
+                    break;
 //                case "multiply":
 //                    a = scanner.nextInt();
 //                    b = scanner.nextInt();
