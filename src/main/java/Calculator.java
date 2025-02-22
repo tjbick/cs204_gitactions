@@ -53,7 +53,11 @@ class Calculator {
     if int a = 16 then this method returns: 10000
      */
     String intToBinaryNumber(int number){
-        return null;
+        if (number == 0) {
+            return "0";
+        }
+
+        return Integer.toBinaryString(number);
     }
 
     /*
