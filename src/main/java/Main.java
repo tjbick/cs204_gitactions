@@ -35,6 +35,10 @@ public class Main {
                     b = scanner.nextInt();
                     System.out.println(calculator.divide(a,b));
                     break;
+                case "fibonacci":
+                    a = scanner.nextInt();
+                    System.out.println(calculator.fibonacciNumberFinder(a));
+                    break;
                 case "Q":
                     break;
             }
