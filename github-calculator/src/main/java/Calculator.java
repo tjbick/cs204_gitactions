@@ -2,7 +2,7 @@
 class Calculator {
 
     Calculator(){
-        // This is an empty cons
+        // This is an empty 
     }
 
     int add(int a , int b){
