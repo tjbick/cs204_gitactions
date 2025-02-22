@@ -30,11 +30,11 @@ public class Main {
                     b = scanner.nextInt();
                     System.out.println(calculator.multiply(a,b));
                     break;
-//                case "divide":
-//                    a = scanner.nextInt();
-//                    b = scanner.nextInt();
-//                    System.out.println(calculator.divide(a,b));
-//                    break;
+                case "divide":
+                    a = scanner.nextInt();
+                    b = scanner.nextInt();
+                    System.out.println(calculator.divide(a,b));
+                    break;
                 case "Q":
                     break;
             }
