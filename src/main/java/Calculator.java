@@ -5,7 +5,7 @@ import java.util.Base64;
 class Calculator {
 
     Calculator(){
-        // This is an empty
+        // This is an empt
     }
 
     int add(int a , int b){
