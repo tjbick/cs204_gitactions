@@ -39,6 +39,10 @@ public class Main {
                     a = scanner.nextInt();
                     System.out.println(calculator.fibonacciNumberFinder(a));
                     break;
+                case "binary":
+                    a = scanner.nextInt();
+                    System.out.println(calculator.intToBinaryNumber(a));
+                    break;
                 case "Q":
                     break;
             }
