@@ -2,7 +2,7 @@
 class Calculator {
 
     Calculator(){
-        // This is an empty constructor
+        // This is an empty cons
     }
 
     int add(int a , int b){
