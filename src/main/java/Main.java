@@ -25,11 +25,11 @@ public class Main {
                     b = scanner.nextInt();
                     System.out.println(calculator.subtract(a,b));
                     break;
-//                case "multiply":
-//                    a = scanner.nextInt();
-//                    b = scanner.nextInt();
-//                    System.out.println(calculator.multiply(a,b));
-//                    break;
+                case "multiply":
+                    a = scanner.nextInt();
+                    b = scanner.nextInt();
+                    System.out.println(calculator.multiply(a,b));
+                    break;
 //                case "divide":
 //                    a = scanner.nextInt();
 //                    b = scanner.nextInt();
